@@ -5,10 +5,12 @@
 
 This is Version 2.0 of the v1 batch extraction tool I made for myself to use alongside extract-xiso.exe
 
-It comes preset to remove the $systemupdate folder and run quitely with a percentage bar, the primary changes to this from my personal 1.0 is adding color and making it easier to update the comands. 
+It comes preset to remove the $systemupdate folder and run quitely with a percentage bar, the primary changes to this from my personal 1.0 <br/> is adding color and making it easier to update the comands. 
 
-This tool is to be used with https://github.com/XboxDev/extract-xiso and come pre packaged with the extract-xiso.exe that I tested it with but you are encouraged to download the latest version from the official repo. 
+This tool is to be used with extract-xiso and come pre packaged with the extract-xiso.exe that I tested it with 
 
+But you are encouraged to download the latest version from the official repo. 
+From here: https://github.com/XboxDev/extract-xiso
 
 # How To Use this tool
 
