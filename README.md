@@ -9,7 +9,8 @@ It comes preset to remove the $systemupdate folder and run quitely with a percen
 
 This tool is to be used with extract-xiso and come pre packaged with the extract-xiso.exe that I tested it with 
 
-But you are encouraged to download the latest version from the official repo. 
+But you are encouraged to download the latest version from the official repo.<br/>
+
 From here: https://github.com/XboxDev/extract-xiso
 
 # How To Use this tool
