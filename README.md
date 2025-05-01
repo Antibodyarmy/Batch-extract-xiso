@@ -1,5 +1,6 @@
 ![Default](https://github.com/Antibodyarmy/Batch-extract-xiso/blob/main/Images/Default.JPG)
 
+#
 
 # About This Tool
 
@@ -12,6 +13,8 @@ This tool is to be used with extract-xiso and come pre packaged with the extract
 But you are encouraged to download the latest version from the official repo.<br/>
 
 From here: https://github.com/XboxDev/extract-xiso
+
+#
 
 # How To Use this tool
 
@@ -60,6 +63,8 @@ By default the command arguments are -x -q -s -d
 When used properly the tool should output something like this. 
 
 ![Example-Use](https://github.com/Antibodyarmy/Batch-extract-xiso/blob/main/Images/example%20use.gif)
+
+#
 
 # Features/Changelog
 
