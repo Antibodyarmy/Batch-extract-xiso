@@ -1,4 +1,4 @@
-![Default](https://github.com/user-attachments/assets/d33be51f-4e7c-4cf1-baaa-c2b17133fcf2)
+![Default](https://github.com/Antibodyarmy/Batch-extract-xiso/blob/main/Images/Default.JPG)
 
 
 # About This Tool
@@ -56,7 +56,7 @@ By default the command arguments are --x -q -s -d
 
 When used properly the tool should output something like this. 
 
-![Example-Use](https://github.com/Antibodyarmy/Batch-extract-xiso/blob/main/example%20use.gif)
+![Example-Use](https://github.com/Antibodyarmy/Batch-extract-xiso/blob/main/Images/example%20use.gif)
 
 # Features/Changelog
 
