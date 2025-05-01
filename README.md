@@ -28,7 +28,7 @@ Tell the script if you want to delete the original iso Y/y for yes N/n For no
 
 You can change the command argumernts for extract-xiso to use on line 8 of the .bat file
 
-By default the command arguments are --x -q -s -d 
+By default the command arguments are -x -q -s -d 
 
 
 > [!CAUTION]
