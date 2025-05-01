@@ -78,9 +78,9 @@ When used properly the tool should output something like this.
 
 
 
-# Extract-xiso.exe readme
+# 
 
-# extract-xiso
+# Extract-xiso.exe readme
 
 A command line utility created by [*in*](mailto:in@fishtank.com) to allow the creation, modification, and extraction of XISOs. Currently being maintained and modernized by the [*XboxDev organization*](https://github.com/XboxDev/XboxDev).
 
@@ -154,33 +154,3 @@ Extract XISO contents to a directory.
 -s                  Skip $SystemUpdate folder.
 -v                  Print version information and exit.
 ```
-
-## Building
-
-### Requirements
-
-- cmake
-- make
-- gcc
-
-### Windows / macOS / Linux
-
-After requirements are installed with your distribution's package manager (or homebrew for macOS), open terminal and change directory to the project root. Then run the following build commands:
-
-```
-# Clone Repo
-git clone https://github.com/XboxDev/extract-xiso.git
-
-# cd into directory
-cd extract-xiso
-
-# Create working directory
-mkdir build
-cd build
-
-# Build project
-cmake ..
-make
-```
-
-The compiled binary should now be in the `extract-xiso/build` directory as `extract-xiso`.
