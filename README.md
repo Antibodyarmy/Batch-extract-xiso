@@ -14,6 +14,10 @@ But you are encouraged to download the latest version from the official repo.<br
 
 From here: https://github.com/XboxDev/extract-xiso
 
+> [!WARNING]
+>This script currently only works for extract mode I'm curently fixing it.
+>
+
 #
 
 # How To Use this tool
